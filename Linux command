@@ -1,0 +1,21 @@
+I. File System & Management
+Command Description
+pwd Print working directory.
+ls List directory contents.
+mv <old-name> <new-name> Rename a file or folder.
+cp <src-path> <dest-path> Copy a file.
+cp -r <src-dir> <dest-dir> Copy a directory recursively.
+nano <filename> Open a file in the nano editor.
+cd <directory-name> Change directory.
+tar Archiving multiple files.
+zip <filename.zip> <file1> <file2> Compress files into a zip archive.
+unzip <filename.zip> Extract files from a zip archive.
+gzip <filename> Compress a file using gzip.
+gunzip <filename> Decompress a file using gzip.
+df -h To see the disk usage in a human-readable
+format.
+du -h How much disk is used in a human-readable
+format.
+free -h To show memory usage in a human-readable
+format.
+fdisk -l To list all storage devices
