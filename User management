@@ -1,0 +1,8 @@
+adduser <username>              # Create a new user.
+useradd <username>              # Create a new user (without creating a home directory by default).
+su - <username>                 # Switch to another user.
+sudo su -                       # Switch to the root user.
+passwd <username>               # Set or change the password for a user.
+usermod -l <new-name> <old-name> # Rename a user.
+userdel <username>              # Delete a user.
+userdel -r <username>           # Delete a user and their home directory.
