@@ -1,0 +1,9 @@
+ File Permissions & Ownership
+Command Description
+ls -l To check file permissions.
+chmod <permissions> <file-name> To change file permissions.
+chown <new-username> <file-name> To change ownership of a file.
+chown -R <new-username> <dir-name> To change ownership of a directory recursively.
+chgrp <new-groupname> <file-name> To change the group ownership of a file.
+chgrp -R <new-groupname> <dir-name> To change the group ownership of a directory
+recursively
